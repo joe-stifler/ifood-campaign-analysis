@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project aimed to improve the effectiveness of iFood's marketing campaigns by using data analysis and machine learning to better understand our customers. I focused on segmenting customers into distinct groups, identifying key drivers of campaign response, and building a predictive model to optimize targeting and maximize campaign profit and ROI. This project provides a data-driven approach to move beyond 'one-size-fits-all' strategies. Dataset source: [here](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign/data).
+This project aimed to improve the effectiveness of iFood's marketing campaigns by using data analysis and machine learning to better understand the customers. I focused on segmenting customers into distinct groups, identifying key drivers of campaign response, and building a predictive model to optimize targeting and maximize campaign profit and ROI. This project provides a data-driven approach to move beyond 'one-size-fits-all' strategies. Dataset source: [here](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign/data).
 
 ## Main Accomplishments
 
