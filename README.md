@@ -29,14 +29,6 @@ This project involved the following key steps:
     *   **Value-Conscious Shoppers:** good acceptance of deals, shop in-store or web. Bigger amount of children, usually kids.
     *   **Established Spenders:** Tend to purchase in store or through web, prefer wines and meat, and are inclined to accept deals. Also have some children, usually teenagers.
     *    **High-Value Customers:** Have a preference for store and catalog channels, are very responsive to current campaign, and have a high spending on wines and meat. Almost no children.
-*   The predictive model is effective, with key predictors being `Recency`, `Teenhome`, `Days with the company`,  `NumWebVisitsMonth`, and `MntGoldProds`. This highlight the need to generate actions that lead to recent purchases, increase engagement on web visits, and take into consideration customers with teenagers.
-
-## Business Recommendations
-
-*   **Personalized Targeting:** Implement tailored marketing strategies for each segment, focusing on their unique preferences and behavior.
-*   **Resource Optimization:** Prioritize high-value customers and the potential of middle spenders to maximize marketing ROI.
-*   **Channel Alignment:** Adjust communication channels to match the preferred purchase channels of each segment.
-*   **Product Selection:** Focus offers on products based on each segment's most relevant purchases.
 
 ## Conclusion
 
